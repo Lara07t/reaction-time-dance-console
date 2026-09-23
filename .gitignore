@@ -1,0 +1,18 @@
+# PSoC Creator build output (regenerated on every build)
+Generated_Source/
+codegentemp/
+CortexM3/
+Export/
+*.cyfit
+*.cycdx
+*.rpt
+*.svd
+*_timing.html
+
+# Per-user IDE settings
+*.cyprj.*
+*.cywrk.*
+
+# OS files
+.DS_Store
+Thumbs.db
